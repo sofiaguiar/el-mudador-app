@@ -1,0 +1,17 @@
+# dotnet
+bin/
+obj/
+*.user
+*.suo
+
+# node
+node_modules/
+dist/
+
+# mac
+.DS_Store
+
+# envs
+.env
+.env.*
+
